@@ -1,4 +1,4 @@
-# Blockchain Cryptocurrency implamented in Node.js & Typescript
+# Blockchain Cryptocurrency implemented in Node.js & Typescript
 
 A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).
 
